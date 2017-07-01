@@ -1,6 +1,6 @@
 module Main where
 
-import Converter (decToOther, otherToDec)
+import Number2Number.Converter (decToOther, otherToDec)
 import Data.Maybe (fromMaybe)
 
 main = do
